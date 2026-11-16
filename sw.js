@@ -1,5 +1,5 @@
-/* ALSKwela JHS LS1 English PWA — v2. All 120 questions are embedded in index.html. */
-const CACHE='alskwela-ae2027-ls1english-v2-20261116';
+/* ALSKwela JHS LS1 English PWA — v4 balanced-option update. All 120 questions are embedded in index.html. */
+const CACHE='alskwela-ae2027-ls1english-v4-options-20261116';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));

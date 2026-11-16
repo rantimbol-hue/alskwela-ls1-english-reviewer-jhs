@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "ALSKwela A&E 2027 - JHS English Reviewer",
-  "short_name": "ALSKwela English",
-  "description": "Offline practice reviewer: 120 JHS English A&E-style items with Taglish explanations",
+  "name": "JHS ALS A&E Reviewer LS 1 - English",
+  "short_name": "JHS A&E LS1 English",
+  "description": "JHS ALS A&E Reviewer – Learning Strand 1 English. 120-question offline practice bank with professional Taglish explanations.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
